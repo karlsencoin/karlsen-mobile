@@ -30,6 +30,11 @@ jobs:
           EOF
       - name: install dependencies
         run: flutter pub get
+      - name: Patch barcode_finder build.gradle
+        run: |
+          find $PUB_CACHE -name "build.gradle" -path "*barcode_finder*" | while read f; do
+            sed -i 's/mavenCentral()/mavenCentral()\n        maven { url "https:\/\/jitpack.io" }/' "$f"
+          done
       - name: generate runtime code
         run: dart run build_runner build --delete-conflicting-outputs
       - name: build
