@@ -60,7 +60,7 @@ Some hints to the table above:
 
 The whole translation effort is coordinated by the Karlsen Network
 developers. If you like to add another language, feel free to get
-in touch at our [Discord](https://discord.gg/ZPZRvgMJDT),
+in touch at our [Discord](https://discord.gg/QyrvshRBJV),
 especially the channel _#translations_.
 # Translations and translators
 
@@ -124,5 +124,5 @@ Some hints to the table above:
 
 The whole translation effort is coordinated by the Karlsen Network
 developers. If you like to add another language, feel free to get
-in touch at our [Discord](https://discord.gg/ZPZRvgMJDT),
+in touch at our [Discord](https://discord.gg/QyrvshRBJV),
 especially the channel _#translations_.

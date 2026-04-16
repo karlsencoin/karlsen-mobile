@@ -79,7 +79,7 @@ If you have any questions or need help, don't hesitate to [submit a feature requ
 
 You’re also welcome to join our Discord server for additional support and community interaction.
 
-[![Join the Karlsen Discord Server](https://img.shields.io/discord/1169939685280337930.svg?label=&logo=discord&logoColor=ffffff)](https://discord.gg/ZPZRvgMJDT)
+[![Join the Karlsen Discord Server](https://img.shields.io/discord/1169939685280337930.svg?label=&logo=discord&logoColor=ffffff)](https://discord.gg/QyrvshRBJV)
 
 ## Screenshots
 
